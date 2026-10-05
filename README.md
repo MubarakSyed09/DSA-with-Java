@@ -60,10 +60,7 @@ dsa/
 | Searching & Sorting | Binary search variants, merge sort, quick sort, heap sort |
 | Hashing | HashMap, HashSet, frequency counting, custom hash table |
 | Trees | Binary tree, BST, AVL, traversals, LCA, Trie, Segment tree |
-| Heaps | Min/Max heap, top-K problems, heap sort |
-| Graphs | BFS, DFS, Dijkstra, Bellman-Ford, Kruskal, Prim, Topological sort, Union-Find |
 | Dynamic Programming | Knapsack, LIS, LCS, DP on grids, DP on strings, bitmask DP |
-| Greedy | Interval scheduling, Huffman coding, activity selection |
 | Bit Manipulation | Masks, XOR tricks, counting set bits |
 
 ## Getting Started
